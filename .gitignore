@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# LHCb Physics Data
+*.root
+*.csv
+*.parquet
+LHCb_Data/

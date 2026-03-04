@@ -211,4 +211,4 @@ __marimo__/
 *.csv
 *.parquet
 LHCb_Data/
-`ncifar_data/
+cifar_data/
